@@ -5,14 +5,13 @@ const About = () => {
         <div style={ styles.containerStyle }>
             <h1 style={ styles.titleStyle }>About</h1>
             <p style={ styles.textStyle }>
-                Ethereum Cat Herders is a group of independent contributors serving 
-                the Ethereum community. We're here to support dev teams by
-                coordinating Hard Forks, monitoring EIPs, creating PM processes, relaying information between 
-                teams, taking notes during All Core Devs calls and much more.</p>
+                The Ethereum Cat Herders are a group of independent contributors serving 
+                the Ethereum community. We are here to support Ethereum developer teams by
+                coordinating Hard Forks, monitoring EIPs, creating PM processes and retroactive reports,
+                relaying information between teams, taking notes during All Core Devs calls and much more.</p>
             <br></br>
             <p style={ styles.textStyle }>
-                We don't have any agenda, nor we have any authority, we just try
-                to bring the minumum amount of order that caos needs to move forward. 
+                Our aim is to bring the minumum amount of order that chaos needs to move Ethereum forward. 
             </p>
         </div>
     );

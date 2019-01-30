@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Resources = () => {
-    // Te main prupose of this component will be to make available
+    // The main prupose of this component will be to make available
     // more resources such as EEP and EIP discussions (EEP5).
     return (
         <div style={ styles.containerStyle }>

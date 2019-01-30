@@ -5,8 +5,8 @@ const Header = () => {
         <div style={ styles.containerStyle } className="Header">
             <h1 style={ styles.titleStyle }>ETHEREUM CAT HERDERS</h1>
             <p style={ styles.Subtitle }>
-            Your place to go to get the latest news on upcoming Network Upgrades (Hard Forks),
-            EIP's, and overall community coordination. 
+            The go-to place to get the latest news on upcoming Network Upgrades (Hard Forks),
+            EIP's, announcements and overall core developer and community coordination efforts. 
             </p>
         </div>
     );

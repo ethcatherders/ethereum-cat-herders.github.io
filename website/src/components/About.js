@@ -7,8 +7,8 @@ const About = () => {
             <p style={ styles.textStyle }>
                 Ethereum Cat Herders is a group of independent contributors serving 
                 the Ethereum community. We're here to support dev teams by
-                coordinating Hard Forks, monitoring EIP, relaying information between 
-                teams, and taking notes during All Core Devs calls.</p>
+                coordinating Hard Forks, monitoring EIPs, creating PM processes, relaying information between 
+                teams, taking notes during All Core Devs calls and much more.</p>
             <br></br>
             <p style={ styles.textStyle }>
                 We don't have any agenda, nor we have any authority, we just try

@@ -13,7 +13,7 @@ const HardFork = () => {
             </p>
             <br></br>
             <p style={ styles.textStyle }>
-            The next network upgrade "Constantinople 2" is targeted at 27 February 2019, block number XXXXXX. 
+            The next network upgrade "Constantinople 2" is targeted at <span style={ styles.boldTextStyle }> 27 February 2019</span>, block number <span style={ styles.boldTextStyle }>7.280.000</span>.
             </p>
             <br></br>
             <p style={ styles.textStyle }>
@@ -28,7 +28,7 @@ const HardFork = () => {
             </div>
             <br></br>
             <p style={ styles.textStyle }>
-            All major clients have already implemented these changes. Progres can be tracked <a href="https://github.com/ethereum/pm/wiki/Constantinople-Progress-Tracker">here.</a>
+            All major clients have already implemented these changes. Progres can be tracked <a href="https://github.com/ethereum/pm/wiki/Constantinople-Progress-Tracker">here</a>.
             </p>
         </div>
     );
@@ -38,7 +38,7 @@ const styles = {
     containerStyle: {
         marginTop: 20,
         textAlign: 'center',
-        padding: 200
+        padding: 150
     },
     titleStyle: {
         fontSize: 40, 
@@ -47,6 +47,11 @@ const styles = {
     textStyle: {
         fontSize: 18, 
         fontFamily: 'Courier'
+    },
+    boldTextStyle: {
+        fontSize: 18, 
+        fontFamily: 'Courier',
+        fontWeight: 'bold'  
     }
 }
 

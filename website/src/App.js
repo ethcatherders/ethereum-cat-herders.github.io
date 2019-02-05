@@ -3,10 +3,12 @@ import React, { Component } from 'react';
 import Header from './components/Header';
 import About from './components/About';
 import HardFork from './components/HardFork';
-import Resources from './components/Resources';
-import Herders from './components/Herders';
 import Footer from './components/Footer';
 import './App.css';
+
+// Not yet used. 
+import Resources from './components/Resources';
+import Herders from './components/Herders';
 
 class App extends Component {
   render() {
@@ -15,7 +17,6 @@ class App extends Component {
         <Header />
         <About />
         <HardFork />
-        <Resources />
         <Footer />
       </div>
     );

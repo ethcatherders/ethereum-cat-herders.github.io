@@ -10,7 +10,7 @@ const About = () => {
                 coordinating Hard Forks, monitoring EIPs, creating PM processes and retroactive reports,
                 relaying information between teams, taking notes during All Core Devs calls and much more.</p>
             <br></br>
-            <p style={ styles.textStyle }>
+            <p style={ styles.boldTextStyle }>
                 Our aim is to bring the minumum amount of order that chaos needs to move Ethereum forward. 
             </p>
         </div>
@@ -29,7 +29,12 @@ const styles = {
     },
     textStyle: {
         fontSize: 18, 
-        fontFamily: 'Courier'
+        fontFamily: 'Courier',
+    },
+    boldTextStyle: {
+        fontSize: 18, 
+        fontFamily: 'Courier',
+        fontWeight: 'bold'  
     }
 }
 

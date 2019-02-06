@@ -1,0 +1,6 @@
+repository: ethereum-cat-herders/www
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore

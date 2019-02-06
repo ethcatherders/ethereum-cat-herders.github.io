@@ -1,18 +1,16 @@
+---
+common-css:
+- /css/style.css
+---
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
-  </head>
+  {% include head.html %}
   <body>
     <img class= "avatar" src="/img/avatar-icon.png"/>
     <h1>{{ page.title }}</h1>
     <section>
       {{ content }}
     </section>
-    <footer>
-        {% include footer.html %}
-    </footer>
+    {% include footer.html %}
   </body>
 </html>

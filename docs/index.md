@@ -1,6 +1,6 @@
-![](/img/avatar-icon.png)
-
-# Ethereum Cat Herders
+---
+title: Ethereum Cat Herders
+---
 
 Welcome to the Ethereum cat Herders' website, the go-to place to get the latest news on upcoming Network Upgrades (Hard Forks), EIP's, announcements and overall core developer and community coordination efforts.
 
@@ -20,6 +20,6 @@ The next network upgrade "Constantinople 2" is targeted at **27 February 2019**,
 - [Delay difficulty bomb, adjust block reward](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1234.md)
 - [Net gas metering for SSTORE without dirty maps](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1283.md)
 
-All major clients have already implemented these changes. Progress can be tracked here.
+All major clients have already implemented these changes. Progress can be tracked [here](https://github.com/ethereum/pm/wiki/Constantinople-Progress-Tracker).
 
 You can find and reach out to the herders here:

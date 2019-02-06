@@ -1,0 +1,23 @@
+.avatar {
+    align-self: center;
+    width: 250px;
+    height: 250px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 90px;
+}
+h2 {
+    font-size: 40px;
+}
+
+ul {
+    list-style-type: none;
+}

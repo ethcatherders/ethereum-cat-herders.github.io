@@ -1,3 +1,4 @@
+![](/img/avatar-icon.png)
 
 # Ethereum Cat Herders
 

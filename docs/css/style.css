@@ -9,6 +9,8 @@ body {
     text-align: center;
     font-size: 18px;
     padding: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 h1 {
@@ -16,8 +18,15 @@ h1 {
 }
 h2 {
     font-size: 40px;
+    padding-top: 200px;
+}
+p {
+    padding-top: 40px;
 }
 
 ul {
     list-style-type: none;
+}
+li {
+    padding-top: 20px;
 }

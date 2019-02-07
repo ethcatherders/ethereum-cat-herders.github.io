@@ -1,0 +1,9 @@
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% if layout.common-css %}
+        {% for css in layout.common-css %}
+            <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+        {% endfor %}
+    {% endif %}
+</head>

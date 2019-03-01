@@ -22,4 +22,12 @@ The next network upgrade "Constantinople 2" is targeted at **27 February 2019**,
 
 All major clients have already implemented these changes. Progress can be tracked [here](https://github.com/ethereum/pm/wiki/Constantinople-Progress-Tracker).
 
+## Financial Transparency 
+
+The Ethereum Cat Herders(and general ETH project management) multisig wallet is here: 
+https://etherscan.io/address/0x68085e7f88e90fa9247489c83fab30b177ebccb3 
+Full accounting is here:
+https://docs.google.com/spreadsheets/d/1PMCKHrkD2oGNXnDi6chy9DOFbpXgDRqpNz75PXSzoj4/edit?usp=sharing 
+Completely transparent, trust-minimized and auditable by anyone, anytime.
+
 You can find and reach out to the herders here:

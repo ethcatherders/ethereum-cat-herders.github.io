@@ -13,7 +13,7 @@ The Ethereum Cat Herders are a group of independent contributors serving the Eth
 You can follow everything related to the upcoming Istanbul network upgrade in Ethereum's Wiki:
 
 
-- [Istanbul Network Upgrade](https://en.ethereum.wiki/roadmap/istanbul)
+- [Istanbul Network Upgrade](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1679.md)
 
 
 You can find and reach out to the herders here:

@@ -10,9 +10,10 @@ The Ethereum Cat Herders are a group of independent contributors serving the Eth
 **Our aim is to bring the minumum amount of order that chaos needs to move Ethereum forward.**
 
 ## Upcoming Network Upgrade
-You can follow everything related to the upcoming Istanbul network upgrade in Ethereum's Wiki:
+You can follow everything related to Ethereum network upgrade:
 
 
+- [Muir Glacier](https://medium.com/ethereum-cat-herders/ethereum-muir-glacier-upgrade-89b8cea5a210)
 - [Istanbul Network Upgrade](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1679.md)
 
 

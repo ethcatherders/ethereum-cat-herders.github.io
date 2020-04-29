@@ -4,7 +4,9 @@ title: Ethereum Cat Herders
 
 Welcome to the Ethereum cat Herders' website, the go-to place to get the latest news on upcoming Network Upgrades (Hard Forks), EIP's, announcements and overall core developer and community coordination efforts.
 
-## Upcoming network upgrade
+**Our aim is to bring the minumum amount of order that chaos needs to move Ethereum forward.**
+
+# Upcoming network upgrade
 You can follow everything related to Ethereum network upgrade with us.
 
 ### Berlin Upgrade
@@ -30,21 +32,20 @@ You can follow everything related to Ethereum network upgrade with us.
 - [Homestead](https://eips.ethereum.org/EIPS/eip-606) 
 - Frontier Thawing
 
-# ProgPOW
-## Ethereum Cat Herders
-### Blogs
+## ProgPOW resources
+#### Ethereum Cat Herders (Blogs)
 * [ProgPoW Audits Released](https://medium.com/ethereum-cat-herders/progpow-audits-released-ed4973ebe073)
 * [ProgPow Audit Update — July 2019](https://medium.com/ethereum-cat-herders/progpow-audit-update-july-2019-ee17718550d)
 * [ProgPoW Audit: Goals & Expectations](https://medium.com/ethereum-cat-herders/progpow-audit-goals-expectations-75bb902a1f01)
 
-### Github
+#### Github
 * [ECH ProgPoW Audit Repo - 2019](https://github.com/ethereum-cat-herders/progpow-audit)
 
-## Community
+#### Community
 
 * [ProgPoW: The Ethereum Community Speaks](https://hudsonjameson.com/2020-03-02-progpow-the-ethereum-community-speaks/) by Hudson Jameson
   
-## Fellowship of Ethereum Magicians
+#### Fellowship of Ethereum Magicians
 
 * [ProgPoW - A Compilation of Reference Material](https://ethereum-magicians.org/t/progpow-a-compilation-of-reference-material/3040)
 * [On the progpow audit](https://ethereum-magicians.org/t/on-the-progpow-audit/2594). Discussion thread opened by the Cat Herders as a general purpose place for the community to discuss the upcoming progpow audit being handled by the Ethereum Cat Herders at the request of the All Core Devs. 
@@ -59,9 +60,9 @@ You can follow everything related to Ethereum network upgrade with us.
 * [ProgPoW Benchmarked, by a Ethereum Miner!](https://ethereum-magicians.org/t/progpow-benchmarked-by-a-ethereum-miner/3020)
 * [Hybrid POW Pre-Proposal](https://ethereum-magicians.org/t/hybrid-pow-pre-proposal/4055)
 
-## About
-The Ethereum Cat Herders are a group of independent contributors serving the Ethereum community. We are here to support Ethereum developer teams by coordinating Hard Forks, monitoring EIPs, creating PM processes and retroactive reports, relaying information between teams, taking notes during All Core Devs calls and much more.
+*Note: The Ethereum Cat Herders are not pro or anti ProgPOW. This collection of resources on ProgPOW discussion is for reference purpose only. Feel free to participate in the ongoing discussion on the Fellowship of Ethereum Magician and other forums. 
 
-**Our aim is to bring the minumum amount of order that chaos needs to move Ethereum forward.**
+## About us
+The Ethereum Cat Herders are a group of independent contributors serving the Ethereum community. We are here to support Ethereum developer teams by coordinating Hard Forks, monitoring EIPs, creating PM processes and retroactive reports, relaying information between teams, taking notes during All Core Devs calls and much more.
 
 You can find and reach out to the herders here:

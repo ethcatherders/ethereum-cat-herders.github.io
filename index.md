@@ -33,7 +33,8 @@ You can follow everything related to Ethereum network upgrade with us.
 - Frontier Thawing
 
 ## ProgPOW resources
-#### Ethereum Cat Herders (Blogs)
+### Ethereum Cat Herders 
+#### Blogs
 * [ProgPoW Audits Released](https://medium.com/ethereum-cat-herders/progpow-audits-released-ed4973ebe073)
 * [ProgPow Audit Update — July 2019](https://medium.com/ethereum-cat-herders/progpow-audit-update-july-2019-ee17718550d)
 * [ProgPoW Audit: Goals & Expectations](https://medium.com/ethereum-cat-herders/progpow-audit-goals-expectations-75bb902a1f01)
@@ -41,9 +42,13 @@ You can follow everything related to Ethereum network upgrade with us.
 #### Github
 * [ECH ProgPoW Audit Repo - 2019](https://github.com/ethereum-cat-herders/progpow-audit)
 
+#### Survey report
+* [Review of the ProgPoW Stakeholder Response](https://docs.google.com/document/d/1m7MQzy1o_UiDOAxoyLJ2b36LsFP1VpQZMj0e8WHqh7w/edit#heading=h.frx9hqbznm57)
+
 #### Community
 
 * [ProgPoW: The Ethereum Community Speaks](https://hudsonjameson.com/2020-03-02-progpow-the-ethereum-community-speaks/) by Hudson Jameson
+* An exhaustive [collection on ProgPOW](https://gist.github.com/greerso/75d8e49ff38a6f26c3732ac9e1edaf24) maintained by greerso
   
 #### Fellowship of Ethereum Magicians
 
@@ -60,7 +65,12 @@ You can follow everything related to Ethereum network upgrade with us.
 * [ProgPoW Benchmarked, by a Ethereum Miner!](https://ethereum-magicians.org/t/progpow-benchmarked-by-a-ethereum-miner/3020)
 * [Hybrid POW Pre-Proposal](https://ethereum-magicians.org/t/hybrid-pow-pre-proposal/4055)
 
-*Note: The Ethereum Cat Herders are not pro or anti ProgPOW. This collection of resources on ProgPOW discussion is for reference purpose only. Feel free to participate in the ongoing discussion on the Fellowship of Ethereum Magician and other forums. 
+### Ongoing voting for ProgPOW on Ethereum network
+* [Importance of ASIC Resistance](https://canonizer.com/topic/171-Importance-of-ASIC-Resistance/1)
+* [While using PoW, should the Ethereum network be secured primarily by GPU miners?](https://burnsignal.io/#/poll/0xe8d4b4368bc2256605565f82f7b579c7f2462cfc)
+* [Ethereum should adopt ProgPOW](https://www.kialo.com/ethereum-and-programmatic-proof-of-work-progpow-30878)
+
+*Note: The Ethereum Cat Herders are not pro or anti ProgPOW. This collection of resources on ProgPOW discussion is made available for community reference purposes only. Feel free to participate in the ongoing discussion on the Fellowship of Ethereum Magician and other forums. 
 
 ## About us
 The Ethereum Cat Herders are a group of independent contributors serving the Ethereum community. We are here to support Ethereum developer teams by coordinating Hard Forks, monitoring EIPs, creating PM processes and retroactive reports, relaying information between teams, taking notes during All Core Devs calls and much more.

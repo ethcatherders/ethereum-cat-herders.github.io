@@ -4,23 +4,26 @@ title: Ethereum Cat Herders
 
 Welcome to the Ethereum cat Herders' website, the go-to place to get the latest news on upcoming Network Upgrades (Hard Forks), EIP's, announcements and overall core developer and community coordination efforts.
 
-**Our aim is to bring the minumum amount of order that chaos needs to move Ethereum forward.**
+**Our aim is to bring the minimum amount of order that chaos needs to move Ethereum forward.**
 
-# Upcoming network upgrade
+# Upcoming Ethereum network upgrade
 You can follow everything related to Ethereum network upgrade with us.
 
-### Berlin Upgrade
-#### Accepted EIPs
+## Berlin Upgrade
+### Accepted EIPs
 [EIP 2315](https://github.com/ethereum/EIPs/pull/2576): Simple Subroutines for the EVM 
 
 [EIP 2537](https://github.com/ethereum/EIPs/pull/2537): BLS12-381 curve operations
 
-#### Proposed EIPs
+### Proposed EIPs
 [EIP 2046](https://eips.ethereum.org/EIPS/eip-2046): Reduced gas cost for static calls made to precompiles
 
 [EIP 2515](https://github.com/ethereum/EIPs/pull/2515): Replace the Difficulty Bomb with a Difficulty Freeze
 
-## Ethereum blockchain upgrades
+#### Follow [client status for Berlin upgrade here](https://docs.google.com/spreadsheets/d/1BomvS0hjc88eTfx1b8Ufa6KYS3vMEb2c8TQ5HJWx2lc/edit#gid=0). 
+
+
+## Previous Ethereum blockchain upgrades
 
 - [Muir Glacier](https://medium.com/ethereum-cat-herders/ethereum-muir-glacier-upgrade-89b8cea5a210)
 - [Istanbul Network Upgrade](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1679.md)
@@ -31,6 +34,34 @@ You can follow everything related to Ethereum network upgrade with us.
 - DAO Fork
 - [Homestead](https://eips.ethereum.org/EIPS/eip-606) 
 - Frontier Thawing
+
+# 1559 Design bounty   
+
+As part of the first [EIP-1559](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)  implementers’ call ([summary](https://twitter.com/TimBeiko/status/1255852443050655744)), one of the identified next steps is to *organize a community bounty* for what the “send a transaction” UI would look like under either EIP-1559 or the newly proposed alternative of “[Escalator Fees](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)”. The Ethereum Cat Herders are facilitating this *bounty* and invite community participation for: 
+
+* **Funding for the bounty** 
+* **Advertising the bounty** 
+
+If you can help with either of these, please reach out to Pooja Ranjan (poojaranjan@etherworld.co) and Tim Beiko (tim.beiko@consensys.net). 
+
+#### Resources: 
+* **EIP-1559**
+    * [GitHub](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md) 
+    * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783) 
+    * [FAQ](https://notes.ethereum.org/Wjr1SnW-QaST7phX9C5wkg?both)
+    * [Reddit](https://www.reddit.com/r/ethereum/comments/fhkca3/eip_1559_when/)
+    * Blogs
+        * [EIP 1559 simulations](https://ethresear.ch/t/eip-1559-simulations/7280) at Eth Research
+        * [Fixing the Ethereum Fee Market](https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b) (EIP-1559) by Eric Conner
+        * EIP 1559: [The Final Puzzle-Piece to Ethereum’s Monetary Policy](https://medium.com/@TrustlessState/eip-1559-the-final-puzzle-piece-to-ethereums-monetary-policy-58802ab28a27) by David Hoffman
+        * [Ethereum Gas Fees Made Easy](https://ethgasstation.info/blog/ethereum-gas-fees-made-easy/) with EIP-1559 by EthGasStation
+
+* **Escalator Fees**
+    * [GitHub](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)
+    * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/71) 
+    * [Another simple Gas fee model: The “Escalator Algorithm” from the Agoric Papers](https://ethresear.ch/t/another-simple-gas-fee-model-the-escalator-algorithm-from-the-agoric-papers/6399) by Dan Finlay at Eth Research
+
+### Read the [design bounty proposal](https://docs.google.com/document/d/12yjO2nJzK3_DmQYZLZ8ox1bIZkAznqDZkFrUcxh9E7M/edit#)  and track progress. 
 
 ## ProgPOW resources
 ### Ethereum Cat Herders 
@@ -75,4 +106,4 @@ You can follow everything related to Ethereum network upgrade with us.
 ## About us
 The Ethereum Cat Herders are a group of independent contributors serving the Ethereum community. We are here to support Ethereum developer teams by coordinating Hard Forks, monitoring EIPs, creating PM processes and retroactive reports, relaying information between teams, taking notes during All Core Devs calls and much more.
 
-You can find and reach out to the herders here:
+You can find and reach out to the Ethereum Cat Herders here:

@@ -18,8 +18,6 @@ You can follow everything related to Ethereum network upgrade with us.
 ### Proposed EIPs
 [EIP 2046](https://eips.ethereum.org/EIPS/eip-2046): Reduced gas cost for static calls made to precompiles
 
-[EIP 2515](https://github.com/ethereum/EIPs/pull/2515): Replace the Difficulty Bomb with a Difficulty Freeze
-
 #### Follow [client status for Berlin upgrade here](https://docs.google.com/spreadsheets/d/1BomvS0hjc88eTfx1b8Ufa6KYS3vMEb2c8TQ5HJWx2lc/edit#gid=0). 
 
 

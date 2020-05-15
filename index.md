@@ -17,6 +17,7 @@ You can follow everything related to Ethereum network upgrade with us.
 
 ### Proposed EIPs
 [EIP 2046](https://eips.ethereum.org/EIPS/eip-2046): Reduced gas cost for static calls made to precompiles
+[EIP 2565](https://eips.ethereum.org/EIPS/eip-2565): Repricing of the EIP-198 ModExp precompile
 
 #### Follow [client status for Berlin upgrade here](https://docs.google.com/spreadsheets/d/1BomvS0hjc88eTfx1b8Ufa6KYS3vMEb2c8TQ5HJWx2lc/edit#gid=0). 
 

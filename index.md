@@ -11,11 +11,11 @@ You can follow everything related to Ethereum network upgrade with us.
 
 ## Berlin Upgrade
 ### Accepted EIPs
-[EIP 2315](https://github.com/ethereum/EIPs/pull/2576): Simple Subroutines for the EVM 
+[EIP-2315](https://github.com/ethereum/EIPs/pull/2576): Simple Subroutines for the EVM 
 
-[EIP 2537](https://github.com/ethereum/EIPs/pull/2537): BLS12-381 curve operations
+[EIP-2537](https://github.com/ethereum/EIPs/pull/2537): BLS12-381 curve operations
 
-Resources: 
+(Community resources for  EIP-2537) 
 
 * [BLS12-381 For The Rest Of Us](https://hackmd.io/@benjaminion/bls12-381) by Ben E. 
 
@@ -41,13 +41,9 @@ Resources:
 - [Homestead](https://eips.ethereum.org/EIPS/eip-606) 
 - Frontier Thawing
 
-# 1559 Design bounty   
+# 1559 Fee market change  
 
-As part of the first [EIP-1559](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)  implementers’ call ([summary](https://twitter.com/TimBeiko/status/1255852443050655744)), one of the identified next steps is to *organize a community bounty* for what the “send a transaction” UI would look like under either EIP-1559 or the newly proposed alternative of “[Escalator Fees](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)”. The Ethereum Cat Herders are facilitating this *bounty* and invite community participation for: Funding and advertising the bounty. 
-
-If you can help with either of these, please reach out to Pooja Ranjan (poojaranjan@etherworld.co) and Tim Beiko (tim.beiko@consensys.net). 
-
-#### Resources: 
+### Resources: 
 * **EIP-1559**
     * [GitHub](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md) 
     * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783) 
@@ -73,8 +69,11 @@ If you can help with either of these, please reach out to Pooja Ranjan (poojaran
 
 #### Fee Market Changes meeting notes are available [here](https://github.com/ethereum/pm/tree/master/Fee%20Market%20Meetings).
 
+As part of the first [EIP-1559](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)  implementers’ call ([summary](https://twitter.com/TimBeiko/status/1255852443050655744)), one of the identified next steps is to *organize a community bounty* for what the “send a transaction” UI would look like under either EIP-1559 or the newly proposed alternative of “[Escalator Fees](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)”. The Ethereum Cat Herders are facilitating this *bounty* and invite community participation for: Funding and advertising the bounty. 
 
-### Read the [design bounty proposal](https://docs.google.com/document/d/12yjO2nJzK3_DmQYZLZ8ox1bIZkAznqDZkFrUcxh9E7M/edit#)  and track progress. 
+If you can help with either of these, please reach out to Pooja Ranjan (poojaranjan@etherworld.co) and Tim Beiko (tim.beiko@consensys.net). 
+
+#### Read the [1559 design bounty proposal](https://docs.google.com/document/d/12yjO2nJzK3_DmQYZLZ8ox1bIZkAznqDZkFrUcxh9E7M/edit#)  and track progress. 
 
 ## ProgPOW resources
 ### Ethereum Cat Herders 

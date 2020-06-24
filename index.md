@@ -15,8 +15,15 @@ You can follow everything related to Ethereum network upgrade with us.
 
 [EIP 2537](https://github.com/ethereum/EIPs/pull/2537): BLS12-381 curve operations
 
+Resources: 
+
+* [BLS12-381 For The Rest Of Us](https://hackmd.io/@benjaminion/bls12-381) by Ben E. 
+
+* On [BLS precompile for ETH1, and its relation to ETH2 launch](https://ledgerwatch.github.io/bls_and_eth2.html)
+
 ### Proposed EIPs
 [EIP 2046](https://eips.ethereum.org/EIPS/eip-2046): Reduced gas cost for static calls made to precompiles
+
 [EIP 2565](https://eips.ethereum.org/EIPS/eip-2565): Repricing of the EIP-198 ModExp precompile
 
 #### Follow [client status for Berlin upgrade here](https://docs.google.com/spreadsheets/d/1BomvS0hjc88eTfx1b8Ufa6KYS3vMEb2c8TQ5HJWx2lc/edit#gid=0). 
@@ -36,10 +43,7 @@ You can follow everything related to Ethereum network upgrade with us.
 
 # 1559 Design bounty   
 
-As part of the first [EIP-1559](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)  implementers’ call ([summary](https://twitter.com/TimBeiko/status/1255852443050655744)), one of the identified next steps is to *organize a community bounty* for what the “send a transaction” UI would look like under either EIP-1559 or the newly proposed alternative of “[Escalator Fees](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)”. The Ethereum Cat Herders are facilitating this *bounty* and invite community participation for: 
-
-* **Funding for the bounty** 
-* **Advertising the bounty** 
+As part of the first [EIP-1559](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)  implementers’ call ([summary](https://twitter.com/TimBeiko/status/1255852443050655744)), one of the identified next steps is to *organize a community bounty* for what the “send a transaction” UI would look like under either EIP-1559 or the newly proposed alternative of “[Escalator Fees](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)”. The Ethereum Cat Herders are facilitating this *bounty* and invite community participation for: Funding and advertising the bounty. 
 
 If you can help with either of these, please reach out to Pooja Ranjan (poojaranjan@etherworld.co) and Tim Beiko (tim.beiko@consensys.net). 
 
@@ -50,15 +54,25 @@ If you can help with either of these, please reach out to Pooja Ranjan (poojaran
     * [FAQ](https://notes.ethereum.org/Wjr1SnW-QaST7phX9C5wkg?both)
     * [Reddit](https://www.reddit.com/r/ethereum/comments/fhkca3/eip_1559_when/)
     * Blogs
+        * [The 1.x Files: EIP 1559 and the Ethereum Improvement Horizon](https://blog.ethereum.org/2020/06/16/eth1x-1559/) at Ethereum Blog
         * [EIP 1559 simulations](https://ethresear.ch/t/eip-1559-simulations/7280) at Eth Research
         * [Fixing the Ethereum Fee Market](https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b) (EIP-1559) by Eric Conner
         * EIP 1559: [The Final Puzzle-Piece to Ethereum’s Monetary Policy](https://medium.com/@TrustlessState/eip-1559-the-final-puzzle-piece-to-ethereums-monetary-policy-58802ab28a27) by David Hoffman
         * [Ethereum Gas Fees Made Easy](https://ethgasstation.info/blog/ethereum-gas-fees-made-easy/) with EIP-1559 by EthGasStation
 
 * **Escalator Fees**
+    * [Analysis of EIP-2593 (Escalator)](https://insights.deribit.com/market-research/analysis-of-eip-2593-escalator/)
     * [GitHub](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)
     * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/71) 
     * [Another simple Gas fee model: The “Escalator Algorithm” from the Agoric Papers](https://ethresear.ch/t/another-simple-gas-fee-model-the-escalator-algorithm-from-the-agoric-papers/6399) by Dan Finlay at Eth Research
+    
+* [Typed Transaction Envelope](https://eips.ethereum.org/EIPS/eip-2718)
+
+* [Combination EIP1559 / escalator](https://github.com/ethereum/rig/blob/master/eip1559/combination.md#floating-escalator-started-on-basefee)
+
+
+#### Fee Market Changes meeting notes are available [here](https://github.com/ethereum/pm/tree/master/Fee%20Market%20Meetings).
+
 
 ### Read the [design bounty proposal](https://docs.google.com/document/d/12yjO2nJzK3_DmQYZLZ8ox1bIZkAznqDZkFrUcxh9E7M/edit#)  and track progress. 
 
@@ -104,5 +118,7 @@ If you can help with either of these, please reach out to Pooja Ranjan (poojaran
 
 ## About us
 The Ethereum Cat Herders are a group of independent contributors serving the Ethereum community. We are here to support Ethereum developer teams by coordinating Hard Forks, monitoring EIPs, creating PM processes and retroactive reports, relaying information between teams, taking notes during All Core Devs calls and much more.
+
+If you're intrested to join the Ethereum Cat Herders, [fill-up the onboarding form](https://docs.google.com/forms/d/1o2Oidzt6qZZ296KkqeNMi6xAALIv8zsBK1Va3Lzc9IQ/edit) and one of the members will reach out to you. 
 
 You can find and reach out to the Ethereum Cat Herders here:

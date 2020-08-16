@@ -44,17 +44,19 @@ You can follow everything related to Ethereum network upgrade with us.
 # 1559 Fee market change  
 
 ### Resources: 
+* [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
+* [Barnabe's Notebook](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/stationary1559.ipynb)
 * **EIP-1559**
     * [GitHub](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md) 
     * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783) 
     * [FAQ](https://notes.ethereum.org/Wjr1SnW-QaST7phX9C5wkg?both)
     * [Reddit](https://www.reddit.com/r/ethereum/comments/fhkca3/eip_1559_when/)
-    * Blogs
-        * [The 1.x Files: EIP 1559 and the Ethereum Improvement Horizon](https://blog.ethereum.org/2020/06/16/eth1x-1559/) at Ethereum Blog
-        * [EIP 1559 simulations](https://ethresear.ch/t/eip-1559-simulations/7280) at Eth Research
-        * [Fixing the Ethereum Fee Market](https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b) (EIP-1559) by Eric Conner
-        * EIP 1559: [The Final Puzzle-Piece to Ethereum’s Monetary Policy](https://medium.com/@TrustlessState/eip-1559-the-final-puzzle-piece-to-ethereums-monetary-policy-58802ab28a27) by David Hoffman
-        * [Ethereum Gas Fees Made Easy](https://ethgasstation.info/blog/ethereum-gas-fees-made-easy/) with EIP-1559 by EthGasStation
+
+    * [The 1.x Files: EIP 1559 and the Ethereum Improvement Horizon](https://blog.ethereum.org/2020/06/16/eth1x-1559/) at Ethereum Blog
+    * [EIP 1559 simulations](https://ethresear.ch/t/eip-1559-simulations/7280) at Eth Research
+    * [Fixing the Ethereum Fee Market](https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b) (EIP-1559) by Eric Conner
+    * EIP 1559: [The Final Puzzle-Piece to Ethereum’s Monetary Policy](https://medium.com/@TrustlessState/eip-1559-the-final-puzzle-piece-to-ethereums-monetary-policy-58802ab28a27) by David Hoffman
+    * [Ethereum Gas Fees Made Easy](https://ethgasstation.info/blog/ethereum-gas-fees-made-easy/) with EIP-1559 by EthGasStation
 
 * **Escalator Fees**
     * [Analysis of EIP-2593 (Escalator)](https://insights.deribit.com/market-research/analysis-of-eip-2593-escalator/)

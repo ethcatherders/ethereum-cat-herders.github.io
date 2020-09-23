@@ -6,46 +6,13 @@ Welcome to the Ethereum cat Herders' website, the go-to place to get the latest 
 
 **Our aim is to bring the minimum amount of order that chaos needs to move Ethereum forward.**
 
-# Upcoming Ethereum network upgrade
-You can follow everything related to Ethereum network upgrade with us.
-
-## Berlin Upgrade
-### Accepted EIPs
-[EIP-2315](https://github.com/ethereum/EIPs/pull/2576): Simple Subroutines for the EVM 
-
-[EIP-2537](https://github.com/ethereum/EIPs/pull/2537): BLS12-381 curve operations
-
-(Community resources for  EIP-2537) 
-
-* [BLS12-381 For The Rest Of Us](https://hackmd.io/@benjaminion/bls12-381) by Ben E. 
-
-* On [BLS precompile for ETH1, and its relation to ETH2 launch](https://ledgerwatch.github.io/bls_and_eth2.html)
-
-### Proposed EIPs
-[EIP 2046](https://eips.ethereum.org/EIPS/eip-2046): Reduced gas cost for static calls made to precompiles
-
-[EIP 2565](https://eips.ethereum.org/EIPS/eip-2565): Repricing of the EIP-198 ModExp precompile
-
-#### Follow [client status for Berlin upgrade here](https://docs.google.com/spreadsheets/d/1BomvS0hjc88eTfx1b8Ufa6KYS3vMEb2c8TQ5HJWx2lc/edit#gid=0). 
-
-
-## Previous Ethereum blockchain upgrades
-
-- [Muir Glacier](https://medium.com/ethereum-cat-herders/ethereum-muir-glacier-upgrade-89b8cea5a210)
-- [Istanbul Network Upgrade](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1679.md)
-- [Constantinople](https://eips.ethereum.org/EIPS/eip-1013) 
-- [Byzantium](https://eips.ethereum.org/EIPS/eip-609)
-- [Spurious Dragon](https://eips.ethereum.org/EIPS/eip-607) 
-- Tangerine Whistle
-- DAO Fork
-- [Homestead](https://eips.ethereum.org/EIPS/eip-606) 
-- Frontier Thawing
-
 # 1559 Fee market change  
 
 ### Resources: 
+* [The State of 1559 - Update 001 🔥](https://hackmd.io/@timbeiko/1559-update-001)
+* Barnabe's Notebook July 2020 - [Strategic users in EIP 1559](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/strategicUser.ipynb)
 * [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
-* [Barnabe's Notebook](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/stationary1559.ipynb)
+* [Barnabe's Notebook July 2020](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/stationary1559.ipynb)
 * **EIP-1559**
     * [GitHub](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md) 
     * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783) 
@@ -76,6 +43,50 @@ As part of the first [EIP-1559](https://github.com/ethereum/EIPs/blob/master/EIP
 If you can help with either of these, please reach out to Pooja Ranjan (poojaranjan@etherworld.co) and Tim Beiko (tim.beiko@consensys.net). 
 
 #### Read the [1559 design bounty proposal](https://docs.google.com/document/d/12yjO2nJzK3_DmQYZLZ8ox1bIZkAznqDZkFrUcxh9E7M/edit#)  and track progress. 
+
+# Peep an EIP 
+A video series focused on the Ethereum Improvement Proposal
+* [EIP-2848 with Giuseppe Bertone](https://youtu.be/z1SnoQkQYkU)
+* [EIP-2535: Diamond Standard with Nick Mudge](https://youtu.be/64VfajtPGJ4)
+* [Onboarding EIP editors with Greg Colvin](https://youtu.be/WqvPjgzDw4s)
+* [EIP-2666 in five slides with Alex Vlasov](https://youtu.be/aGxe5XneLFo)
+* [EIP-1571: EthereumStratum/2.0.0 with Andrea Lanfranchi](https://youtu.be/jiR_vftP9WA)
+* [EIP-2537 in five slides with Alex Vlasov](https://youtu.be/al4YpfDVmS4)
+* [EIP-173: Contract Ownership Standard with Nick Mudge](https://www.youtube.com/watch?v=BXMcDaVMR40&t=1s)
+* [Writing an EIP with Matt Garnett](https://www.youtube.com/watch?v=Vnu4m4bBqCs&t=1s)
+
+### Schedule tracker: https://github.com/ethereum-cat-herders/PM/projects/2?fullscreen=true
+
+# Upcoming Ethereum network upgrade
+You can follow everything related to Ethereum network upgrade with us.
+
+## Berlin Upgrade
+### Accepted EIPs
+[EIP-2315](https://github.com/ethereum/EIPs/pull/2576): Simple Subroutines for the EVM 
+
+[EIP-2537](https://github.com/ethereum/EIPs/pull/2537): BLS12-381 curve operations
+
+### Proposed EIPs
+[EIP 2046](https://eips.ethereum.org/EIPS/eip-2046): Reduced gas cost for static calls made to precompiles
+
+[EIP 2565](https://eips.ethereum.org/EIPS/eip-2565): Repricing of the EIP-198 ModExp precompile
+
+#### Follow [client status for Berlin upgrade here](https://docs.google.com/spreadsheets/d/1BomvS0hjc88eTfx1b8Ufa6KYS3vMEb2c8TQ5HJWx2lc/edit#gid=0). 
+
+
+## Previous Ethereum blockchain upgrades
+
+- [Muir Glacier](https://medium.com/ethereum-cat-herders/ethereum-muir-glacier-upgrade-89b8cea5a210)
+- [Istanbul Network Upgrade](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1679.md)
+- [Constantinople](https://eips.ethereum.org/EIPS/eip-1013) 
+- [Byzantium](https://eips.ethereum.org/EIPS/eip-609)
+- [Spurious Dragon](https://eips.ethereum.org/EIPS/eip-607) 
+- Tangerine Whistle
+- DAO Fork
+- [Homestead](https://eips.ethereum.org/EIPS/eip-606) 
+- Frontier Thawing
+
+
 
 ## ProgPOW resources
 ### Ethereum Cat Herders 

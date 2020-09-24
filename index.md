@@ -10,7 +10,7 @@ Welcome to the Ethereum cat Herders' website, the go-to place to get the latest 
 
 ### Resources: 
 * [The State of 1559 - Update 001 🔥](https://hackmd.io/@timbeiko/1559-update-001)
-* Barnabe's Notebook July 2020 - [Strategic users in EIP 1559](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/strategicUser.ipynb)
+* Barnabe's Notebook September 2020 - [Strategic users in EIP 1559](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/strategicUser.ipynb)
 * [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
 * [Barnabe's Notebook July 2020](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/stationary1559.ipynb)
 * **EIP-1559**
@@ -55,7 +55,8 @@ A video series focused on the Ethereum Improvement Proposal
 * [EIP-173: Contract Ownership Standard with Nick Mudge](https://www.youtube.com/watch?v=BXMcDaVMR40&t=1s)
 * [Writing an EIP with Matt Garnett](https://www.youtube.com/watch?v=Vnu4m4bBqCs&t=1s)
 
-### Schedule tracker: https://github.com/ethereum-cat-herders/PM/projects/2?fullscreen=true
+### [Peep an EIP Schedule tracker](https://github.com/ethereum-cat-herders/PM/projects/2)
+
 
 # Upcoming Ethereum network upgrade
 You can follow everything related to Ethereum network upgrade with us.

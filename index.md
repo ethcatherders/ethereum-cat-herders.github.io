@@ -6,6 +6,9 @@ Welcome to the Ethereum cat Herders' website, the go-to place to get the latest 
 
 **Our aim is to bring the minimum amount of order that chaos needs to move Ethereum forward.**
 
+Read our journey with Ethereum ecosystem - [Review 2020: The Ethereum Cat Herders](https://medium.com/ethereum-cat-herders/review-2020-the-ethereum-cat-herders-70164265c8d9)
+
+
 # 1559 Fee market change  
 
 ### Resources: 

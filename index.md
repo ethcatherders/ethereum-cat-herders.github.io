@@ -12,7 +12,7 @@ Read our journey with Ethereum ecosystem - [Review 2020: The Ethereum Cat Herder
 Follow Ethereum network upgrade with us.
 ## Berlin Upgrade
 ### Client Integration Testnet (YOLO)
-* [YOLO v3 testnet](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv2.md)
+* [YOLO v2 testnet](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv2.md)
 * [YOLO v3 testnet](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv3.md) 
 ### [Network Upgrade Process Tracker](https://github.com/ethereum/eth1.0-specs/projects/1)
 The process tracker helps with tracking EIPs and clients’ development & integration can be followed on the latest version of the developer's testnet. Read [Shedding light on the Ethereum Network Upgrade Process](https://medium.com/ethereum-cat-herders/shedding-light-on-the-ethereum-network-upgrade-process-4c6186ed442c) for more information.
@@ -39,7 +39,7 @@ The process tracker helps with tracking EIPs and clients’ development & integr
 ## 1559 implementers meeting
 * [Agenda](https://github.com/ethereum/pm/issues) 
 * [Video](https://www.youtube.com/c/EthereumFoundation/videos)
-* Notes
+* [Notes](https://github.com/ethereum/pm/tree/master/Fee%20Market%20Meetings)
 ## EIPIP meeting
 * [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues) 
 * [Video](https://www.youtube.com/playlist?list=PL4cwHXAawZxpLrRIkDlBjDUUrGgF91pQw)
@@ -76,15 +76,26 @@ A video series focused on the Ethereum Improvement Proposal
 * [Writing an EIP with Matt Garnett](https://www.youtube.com/watch?v=Vnu4m4bBqCs&t=1s)
 ### [Peep an EIP Schedule tracker](https://github.com/ethereum-cat-herders/PM/projects/2)
 
-# [1559 Fee market change](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)
+## [1559 Fee market change](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)
 ### Resources: 
+* [EIP-1559 Mainnet Readiness Checklist](https://github.com/ethereum/pm/blob/master/Fee%20Market%20Meetings/mainnet-readiness.md)
+* [EIP-1559 Toolbox](http://eip1559-tx.ops.pegasys.tech/)
+#### Blogs
+**Tim's Updates**
 * [The State of 1559 - Update 004](https://hackmd.io/@timbeiko/1559-update-004)
 * [The State of 1559 - Update 003](https://hackmd.io/@timbeiko/1559-update-003)
 * [The State of 1559 - Update 002](https://hackmd.io/@timbeiko/1559-update-002)
 * [The State of 1559 - Update 001 🔥](https://hackmd.io/@timbeiko/1559-update-001)
-* Barnabe's Notebook September 2020 - [Strategic users in EIP 1559](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/strategicUser.ipynb)
-* [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
-* [Barnabe's Notebook July 2020](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/stationary1559.ipynb)
+
+**Barnabe's Notebook**
+* [The stable road to EIP 1559: Transitioning out of first-price auctions](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/Transition.ipynb)
+* [Eviction policy](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/eviction.ipynb)
+* [The floating escalator: Combining 1559 and the escalator](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/floatingEscalator.ipynb)
+* [Strategic users in EIP 1559](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/strategicUser.ipynb)
+* [Stationary behaviour of EIP 1559 agent-based model](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/stationary1559.ipynb)
+* [Tx pool in EIP 1559](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/txpool.ipynb)
+
+**Community resources**
 * [The 1.x Files: EIP 1559 and the Ethereum Improvement Horizon](https://blog.ethereum.org/2020/06/16/eth1x-1559/) at Ethereum Blog
 * [EIP 1559 simulations](https://ethresear.ch/t/eip-1559-simulations/7280) at Eth Research
 * [Fixing the Ethereum Fee Market](https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b) (EIP-1559) by Eric Conner
@@ -93,6 +104,12 @@ A video series focused on the Ethereum Improvement Proposal
 * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783) 
 * [FAQ](https://notes.ethereum.org/Wjr1SnW-QaST7phX9C5wkg?both)
 * [Reddit](https://www.reddit.com/r/ethereum/comments/fhkca3/eip_1559_when/)
+
+#### Video
+* [Tim Roughgarden: An Economic Analysis of EIP-1559; Q&A with Vitalik Buterin](https://www.youtube.com/watch?v=ndNyx-Oj9Wk&feature=youtu.be)
+* [EIP-1559: Fee market change for Ethereum 1.0 chain](https://youtu.be/ZbSKo_x9RvU)
+* [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
+
 * **Escalator Fees**
     * [Analysis of EIP-2593 (Escalator)](https://insights.deribit.com/market-research/analysis-of-eip-2593-escalator/)
     * [GitHub](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)

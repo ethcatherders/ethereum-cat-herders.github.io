@@ -5,10 +5,10 @@
 }
 
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Verdana', Courier, monospace;
     text-align: left;
     font-size: 18px;
-    padding: 10px;
+    padding: 5px;
     padding-left: 200px;
     padding-right: 200px;
 }

@@ -2,81 +2,26 @@
 title: Ethereum Cat Herders
 ---
 
-Welcome to the Ethereum cat Herders' website, the go-to place to get the latest news on upcoming Network Upgrades (Hard Forks), EIP's, announcements and overall core developer and community coordination efforts.
+Welcome to the Ethereum Cat Herders' website, the go-to place to get the latest news on Ethereum Improvement Proposals (EIP), core clients' updates, testnets updates, and other processes around the network upgrade.
 
 **Our aim is to bring the minimum amount of order that chaos needs to move Ethereum forward.**
 
 Read our journey with Ethereum ecosystem - [Review 2020: The Ethereum Cat Herders](https://medium.com/ethereum-cat-herders/review-2020-the-ethereum-cat-herders-70164265c8d9)
 
-
-# 1559 Fee market change  
-
-### Resources: 
-* [The State of 1559 - Update 001 🔥](https://hackmd.io/@timbeiko/1559-update-001)
-* Barnabe's Notebook September 2020 - [Strategic users in EIP 1559](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/strategicUser.ipynb)
-* [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
-* [Barnabe's Notebook July 2020](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/stationary1559.ipynb)
-* **EIP-1559**
-    * [GitHub](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md) 
-    * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783) 
-    * [FAQ](https://notes.ethereum.org/Wjr1SnW-QaST7phX9C5wkg?both)
-    * [Reddit](https://www.reddit.com/r/ethereum/comments/fhkca3/eip_1559_when/)
-
-    * [The 1.x Files: EIP 1559 and the Ethereum Improvement Horizon](https://blog.ethereum.org/2020/06/16/eth1x-1559/) at Ethereum Blog
-    * [EIP 1559 simulations](https://ethresear.ch/t/eip-1559-simulations/7280) at Eth Research
-    * [Fixing the Ethereum Fee Market](https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b) (EIP-1559) by Eric Conner
-    * EIP 1559: [The Final Puzzle-Piece to Ethereum’s Monetary Policy](https://medium.com/@TrustlessState/eip-1559-the-final-puzzle-piece-to-ethereums-monetary-policy-58802ab28a27) by David Hoffman
-    * [Ethereum Gas Fees Made Easy](https://ethgasstation.info/blog/ethereum-gas-fees-made-easy/) with EIP-1559 by EthGasStation
-
-* **Escalator Fees**
-    * [Analysis of EIP-2593 (Escalator)](https://insights.deribit.com/market-research/analysis-of-eip-2593-escalator/)
-    * [GitHub](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)
-    * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/71) 
-    * [Another simple Gas fee model: The “Escalator Algorithm” from the Agoric Papers](https://ethresear.ch/t/another-simple-gas-fee-model-the-escalator-algorithm-from-the-agoric-papers/6399) by Dan Finlay at Eth Research
-    
-* [Typed Transaction Envelope](https://eips.ethereum.org/EIPS/eip-2718)
-
-* [Combination EIP1559 / escalator](https://github.com/ethereum/rig/blob/master/eip1559/combination.md#floating-escalator-started-on-basefee)
-
-
-#### Fee Market Changes meeting notes are available [here](https://github.com/ethereum/pm/tree/master/Fee%20Market%20Meetings).
-
-As part of the first [EIP-1559](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)  implementers’ call ([summary](https://twitter.com/TimBeiko/status/1255852443050655744)), one of the identified next steps is to *organize a community bounty* for what the “send a transaction” UI would look like under either EIP-1559 or the newly proposed alternative of “[Escalator Fees](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)”. The Ethereum Cat Herders are facilitating this *bounty* and invite community participation for: Funding and advertising the bounty. 
-
-If you can help with either of these, please reach out to Pooja Ranjan (poojaranjan@etherworld.co) and Tim Beiko (tim.beiko@consensys.net). 
-
-#### Read the [1559 design bounty proposal](https://docs.google.com/document/d/12yjO2nJzK3_DmQYZLZ8ox1bIZkAznqDZkFrUcxh9E7M/edit#)  and track progress. 
-
-# Peep an EIP 
-A video series focused on the Ethereum Improvement Proposal
-* [EIP-2848 with Giuseppe Bertone](https://youtu.be/z1SnoQkQYkU)
-* [EIP-2535: Diamond Standard with Nick Mudge](https://youtu.be/64VfajtPGJ4)
-* [Onboarding EIP editors with Greg Colvin](https://youtu.be/WqvPjgzDw4s)
-* [EIP-2666 in five slides with Alex Vlasov](https://youtu.be/aGxe5XneLFo)
-* [EIP-1571: EthereumStratum/2.0.0 with Andrea Lanfranchi](https://youtu.be/jiR_vftP9WA)
-* [EIP-2537 in five slides with Alex Vlasov](https://youtu.be/al4YpfDVmS4)
-* [EIP-173: Contract Ownership Standard with Nick Mudge](https://www.youtube.com/watch?v=BXMcDaVMR40&t=1s)
-* [Writing an EIP with Matt Garnett](https://www.youtube.com/watch?v=Vnu4m4bBqCs&t=1s)
-
-### [Peep an EIP Schedule tracker](https://github.com/ethereum-cat-herders/PM/projects/2)
-
-
 # Upcoming Ethereum network upgrade
-You can follow everything related to Ethereum network upgrade with us.
+
+Follow Ethereum network upgrade with us.
 
 ## Berlin Upgrade
-### Accepted EIPs
-[EIP-2315](https://github.com/ethereum/EIPs/pull/2576): Simple Subroutines for the EVM 
 
-[EIP-2537](https://github.com/ethereum/EIPs/pull/2537): BLS12-381 curve operations
+### Client Integration Testnet (YOLO)
 
-### Proposed EIPs
-[EIP 2046](https://eips.ethereum.org/EIPS/eip-2046): Reduced gas cost for static calls made to precompiles
+* [YOLO v3 testnet](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv2.md)
 
-[EIP 2565](https://eips.ethereum.org/EIPS/eip-2565): Repricing of the EIP-198 ModExp precompile
+* [YOLO v3 testnet](https://github.com/ethereum/eth1.0-specs/blob/master/client-integration-testnets/YOLOv3.md) 
 
-#### Follow [client status for Berlin upgrade here](https://docs.google.com/spreadsheets/d/1BomvS0hjc88eTfx1b8Ufa6KYS3vMEb2c8TQ5HJWx2lc/edit#gid=0). 
-
+### [Network Upgrade Process Tracker](https://github.com/ethereum/eth1.0-specs/projects/1)
+The process tracker helps with tracking EIPs and clients’ development & integration can be followed on the latest version of the developer's testnet. Read [Shedding light on the Ethereum Network Upgrade Process](https://medium.com/ethereum-cat-herders/shedding-light-on-the-ethereum-network-upgrade-process-4c6186ed442c) for more information.
 
 ## Previous Ethereum blockchain upgrades
 
@@ -90,10 +35,117 @@ You can follow everything related to Ethereum network upgrade with us.
 - [Homestead](https://eips.ethereum.org/EIPS/eip-606) 
 - Frontier Thawing
 
+# Ethereum developers' meetings 
 
+## All Core Dev meeting
+* [Agenda](https://github.com/ethereum/pm/issues) 
+* [Video](https://www.youtube.com/c/EthereumFoundation/videos)
+* [Notes](https://github.com/ethereum/pm/tree/master/All%20Core%20Devs%20Meetings)
 
-## ProgPOW resources
-### Ethereum Cat Herders 
+## Eth2 implementers meeting
+* [Agenda](https://github.com/ethereum/eth2.0-pm/issues) 
+* [Video](https://www.youtube.com/c/EthereumFoundation/videos)
+* [Notes](https://github.com/ethereum/eth2.0-pm/tree/master/eth2.0-implementers-calls)
+
+## 1559 implementers meeting
+* [Agenda](https://github.com/ethereum/pm/issues) 
+* [Video](https://www.youtube.com/c/EthereumFoundation/videos)
+* Notes
+
+## EIPIP meeting
+* [Agenda](https://github.com/ethereum-cat-herders/EIPIP/issues) 
+* [Video](https://www.youtube.com/playlist?list=PL4cwHXAawZxpLrRIkDlBjDUUrGgF91pQw)
+* [Notes](https://github.com/ethereum-cat-herders/EIPIP/tree/master/All%20EIPIP%20Meetings)
+
+## Breakout room meeting
+* [Agenda & Notes](https://github.com/ethereum/pm/issues) 
+* [Video](https://www.youtube.com/playlist?list=PL4cwHXAawZxqOabsdbDgzBUyztSHn4Lap)
+
+## Ethereum Cat Herders
+* [Agenda](https://github.com/ethereum-cat-herders/PM/issues) 
+* [Video](https://www.youtube.com/playlist?list=PL4cwHXAawZxogBKmFamsYqUch8xEu55y2)
+* [Notes](https://github.com/ethereum-cat-herders/PM/tree/master/All%20Ethereum%20Cat%20Herder%20Meetings)
+
+# EIP Resources
+
+## [Peep an EIP](https://www.youtube.com/playlist?list=PL4cwHXAawZxqu0PKKyMzG_3BJV_xZTi1F)
+
+A video series focused on the Ethereum Improvement Proposal
+
+* [Potential directions for new EIPs with Nick Johnson](https://youtu.be/9rUu2HMXt0I)
+* [EIP-1559: Fee market change for Ethereum 1.0 chain](https://youtu.be/ZbSKo_x9RvU)
+* [EIP-778: Ethereum Node Records (ENR) with Felix Lange](https://youtu.be/TVG4Xb-YDiY)
+* EIP-2938: Account Abstraction with Sam Wilson & Ansgar Dietrichs ([Pt. 1](https://youtu.be/HvZd6z2YdZs)) & ([Pt. 2](https://youtu.be/Xoc4q1nJzsU)) 
+* [EIP-2718 with Micah Zoltu](https://youtu.be/JReJRJ5G_UA)
+* [EIP-778 with Felix Lange](https://youtu.be/TVG4Xb-YDiY)
+* [EIP-2982 with Danny Ryan](https://youtu.be/R0diOxQXnRo)
+* [EIP-2935: Save historical block hashes in state with Tomasz K. Stanzak](https://youtu.be/QH5yuNd3B6o)
+* [EIP-2565: Repricing of the EIP-198 ModExp precompile with Kelly Olson](https://youtu.be/riBALRAw1Mw)
+* [EIP-2666: Repricing of precompiles and Keccak256 function with Alex Vlasov](https://youtu.be/aGxe5XneLFo)
+* [EIP-2537: BLS12-381 curve operations with Alex Vlasov](https://youtu.be/al4YpfDVmS4)
+* [EIP-2848 with Giuseppe Bertone](https://youtu.be/z1SnoQkQYkU)
+* [EIP-2535: Diamond Standard with Nick Mudge](https://youtu.be/64VfajtPGJ4)
+* [Onboarding EIP editors with Greg Colvin](https://youtu.be/WqvPjgzDw4s)
+* [EIP-2666 in five slides with Alex Vlasov](https://youtu.be/aGxe5XneLFo)
+* [EIP-1571: EthereumStratum/2.0.0 with Andrea Lanfranchi](https://youtu.be/jiR_vftP9WA)
+* [EIP-2537 in five slides with Alex Vlasov](https://youtu.be/al4YpfDVmS4)
+* [EIP-173: Contract Ownership Standard with Nick Mudge](https://www.youtube.com/watch?v=BXMcDaVMR40&t=1s)
+* [Writing an EIP with Matt Garnett](https://www.youtube.com/watch?v=Vnu4m4bBqCs&t=1s)
+
+### [Peep an EIP Schedule tracker](https://github.com/ethereum-cat-herders/PM/projects/2)
+
+## EIP-1559: Fees market change
+EIP-1559 Mainnet Readiness Checklist
+1559 quick update (Tim’s hackmd)
+Tim Roughgarden’s report
+Barnabe’s notebook (latest)
+1559 outreach report
+GitHub meeting agenda/notes
+
+# [1559 Fee market change](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)
+
+### Resources: 
+
+* [The State of 1559 - Update 004](https://hackmd.io/@timbeiko/1559-update-004)
+* [The State of 1559 - Update 003](https://hackmd.io/@timbeiko/1559-update-003)
+* [The State of 1559 - Update 002](https://hackmd.io/@timbeiko/1559-update-002)
+* [The State of 1559 - Update 001 🔥](https://hackmd.io/@timbeiko/1559-update-001)
+* Barnabe's Notebook September 2020 - [Strategic users in EIP 1559](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/strategicUser.ipynb)
+* [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
+* [Barnabe's Notebook July 2020](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/stationary1559.ipynb)
+* [The 1.x Files: EIP 1559 and the Ethereum Improvement Horizon](https://blog.ethereum.org/2020/06/16/eth1x-1559/) at Ethereum Blog
+* [EIP 1559 simulations](https://ethresear.ch/t/eip-1559-simulations/7280) at Eth Research
+* [Fixing the Ethereum Fee Market](https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b) (EIP-1559) by Eric Conner
+* EIP 1559: [The Final Puzzle-Piece to Ethereum’s Monetary Policy](https://medium.com/@TrustlessState/eip-1559-the-final-puzzle-piece-to-ethereums-monetary-policy-58802ab28a27) by David Hoffman
+* [Ethereum Gas Fees Made Easy](https://ethgasstation.info/blog/ethereum-gas-fees-made-easy/) with EIP-1559 by EthGasStation
+
+* [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783) 
+* [FAQ](https://notes.ethereum.org/Wjr1SnW-QaST7phX9C5wkg?both)
+* [Reddit](https://www.reddit.com/r/ethereum/comments/fhkca3/eip_1559_when/)
+
+* **Escalator Fees**
+    * [Analysis of EIP-2593 (Escalator)](https://insights.deribit.com/market-research/analysis-of-eip-2593-escalator/)
+    * [GitHub](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)
+    * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/71) 
+    * [Another simple Gas fee model: The “Escalator Algorithm” from the Agoric Papers](https://ethresear.ch/t/another-simple-gas-fee-model-the-escalator-algorithm-from-the-agoric-papers/6399) by Dan Finlay at Eth Research
+    
+* **[Typed Transaction Envelope](https://eips.ethereum.org/EIPS/eip-2718)**
+
+* **[Combination EIP1559 / escalator](https://github.com/ethereum/rig/blob/master/eip1559/combination.md#floating-escalator-started-on-basefee)**
+
+#### Fee Market Changes meeting notes are available [here](https://github.com/ethereum/pm/tree/master/Fee%20Market%20Meetings).
+
+## [EIP-2938: Account Abstraction](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2938.md)
+
+* [Account Abstraction Community Call](https://www.youtube.com/watch?v=0hAIjLFe38Y&list=PL4cwHXAawZxr020waJCI0dZAfPAW2naK1&index=1)
+* EIP-2938: Account Abstraction with Sam Wilson & Ansgar Dietrichs ([Pt. 1](https://youtu.be/HvZd6z2YdZs)) & ([Pt. 2](https://youtu.be/Xoc4q1nJzsU))
+* [EIP-2938 Account Abstraction Explained](https://hackmd.io/@SamWilsn/ryhxoGp4D)
+* [Ethereum Magicians discussion](https://ethereum-magicians.org/t/eip-2938-account-abstraction/4630)
+* [Presentation by Vitalik at an Ethereum Engineering Group meetup](https://youtu.be/_DUHTJEoaX0)
+* [Presentation by @SamWilsn and me at the ETHOnline hackathon](https://www.youtube.com/watch?v=96UfJPYyFcs&t=4227) & [slides](https://docs.google.com/presentation/d/1Pxflzbw_TcELprmVUwmdm5_cw_hvm3qe4sSDTAnyQUA/edit)
+
+## [EIP-1057: ProgPoW, a Programmatic Proof-of-Work](https://eips.ethereum.org/EIPS/eip-1057)
+
 #### Blogs
 * [ProgPoW Audits Released](https://medium.com/ethereum-cat-herders/progpow-audits-released-ed4973ebe073)
 * [ProgPow Audit Update — July 2019](https://medium.com/ethereum-cat-herders/progpow-audit-update-july-2019-ee17718550d)
@@ -106,12 +158,10 @@ You can follow everything related to Ethereum network upgrade with us.
 * [Review of the ProgPoW Stakeholder Response](https://docs.google.com/document/d/1m7MQzy1o_UiDOAxoyLJ2b36LsFP1VpQZMj0e8WHqh7w/edit#heading=h.frx9hqbznm57)
 
 #### Community
-
 * [ProgPoW: The Ethereum Community Speaks](https://hudsonjameson.com/2020-03-02-progpow-the-ethereum-community-speaks/) by Hudson Jameson
 * An exhaustive [collection on ProgPOW](https://gist.github.com/greerso/75d8e49ff38a6f26c3732ac9e1edaf24) maintained by greerso
   
-#### Fellowship of Ethereum Magicians
-
+### Fellowship of Ethereum Magicians
 * [ProgPoW - A Compilation of Reference Material](https://ethereum-magicians.org/t/progpow-a-compilation-of-reference-material/3040)
 * [On the progpow audit](https://ethereum-magicians.org/t/on-the-progpow-audit/2594). Discussion thread opened by the Cat Herders as a general purpose place for the community to discuss the upcoming progpow audit being handled by the Ethereum Cat Herders at the request of the All Core Devs. 
 * [EIP-2538: Informational Position Statement Against The Activation of ProgPoW](https://ethereum-magicians.org/t/eip-2538-informational-position-statement-against-the-activation-of-progpow/4040)

@@ -76,6 +76,40 @@ A video series focused on the Ethereum Improvement Proposal
 * [Writing an EIP with Matt Garnett](https://www.youtube.com/watch?v=Vnu4m4bBqCs&t=1s)
 ### [Peep an EIP Schedule tracker](https://github.com/ethereum-cat-herders/PM/projects/2)
 
+## [EVM 384](https://notes.ethereum.org/@axic/evm384-preview)
+### Discussion
+* [Fellowship of Ethereum Magician](https://ethereum-magicians.org/t/evm384-feedback-and-discussion/4533)
+### Resources
+* [Current performance of EIP-2537 and EVM384 by Alex Vlasov](https://hackmd.io/@HQ919cEzRLak4f8-8fPbZA/HJ4u8q3uD)
+* [EVM384 for Geth](https://gist.github.com/jwasinger/41b890bc5a01b7abd4f75ae70f0641f1#file-instructions-md)
+* [Update 4: The Final Exponentiation and the Pairing](https://notes.ethereum.org/@poemm/evm384-update4)
+* [Update 3: The Miller loop](https://notes.ethereum.org/@poemm/evm384-update3)
+* [Update 2: The Interfaces](https://notes.ethereum.org/@poemm/evm384-interface-update)
+* [Update 1: Can we do fast crypto in EVM?](https://notes.ethereum.org/@axic/evm384)
+* [Preview of EVM384](https://notes.ethereum.org/@axic/evm384-preview)
+#### Video
+* [EVM384 - Doing Fast Crypto in EVM' - Paul Dworzanski](https://www.youtube.com/watch?v=vlrLl1r66GU)
+
+## [EIP-2537: Precompile for BLS12-381 curve operations](https://eips.ethereum.org/EIPS/eip-2537)
+### Discussion
+* [Fellowship of Ethereum Magician](https://ethereum-magicians.org/t/eip2537-bls12-precompile-discussion-thread/4187)
+### Resources
+* [What eth2 needs from eth1 over the next six months](https://medium.com/@ralexstokes/what-eth2-needs-from-eth1-over-the-next-six-months-86b01863746)
+* [BLS Signatures in Solidity](https://ethresear.ch/t/bls-signatures-in-solidity/7919)
+* [Current performance of EIP-2537 and EVM384 by Alex Vlasov](https://hackmd.io/@HQ919cEzRLak4f8-8fPbZA/HJ4u8q3uD)
+* [EIP](https://eips.ethereum.org/EIPS/eip-2537)
+Other links:
+* https://github.com/shamatar/eip2537_go_bindings
+* https://github.com/shamatar/algebraic_fuzzer
+#### Video
+* [EIP-2537 in five slides with Alex Vlasov](https://www.youtube.com/watch?v=al4YpfDVmS4&feature=youtu.be)
+
+## [EIP-2539: BLS12-377 curve operations](https://eips.ethereum.org/EIPS/eip-2539)
+### Discussion
+* [Fellowship of Ethereum Magician](https://ethereum-magicians.org/t/eip-2539-bls12-377-precompile-discussion-thread/4659)
+### Resources
+* [Modifications for EIP-2539 by James Prestwich](https://github.com/prestwich/algebraic_fuzzer)
+
 ## [1559 Fee market change](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)
 ### Resources: 
 * [EIP-1559 Mainnet Readiness Checklist](https://github.com/ethereum/pm/blob/master/Fee%20Market%20Meetings/mainnet-readiness.md)

@@ -111,10 +111,13 @@ Other links:
 * [Modifications for EIP-2539 by James Prestwich](https://github.com/prestwich/algebraic_fuzzer)
 
 ## [1559 Fee market change](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)
+### Discussion
+* [Fellowship of Ethereum Magician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/71) 
 ### Resources: 
 * [EIP-1559 Mainnet Readiness Checklist](https://github.com/ethereum/pm/blob/master/Fee%20Market%20Meetings/mainnet-readiness.md)
 * [EIP-1559 Toolbox](http://eip1559-tx.ops.pegasys.tech/)
-#### Blogs
+* [EIP-1559 Rhodes testnet](https://github.com/ConsenSys/eip1559-rhodes)
+
 **Tim's Updates**
 * [The State of 1559 - Update 004](https://hackmd.io/@timbeiko/1559-update-004)
 * [The State of 1559 - Update 003](https://hackmd.io/@timbeiko/1559-update-003)
@@ -138,20 +141,18 @@ Other links:
 * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783) 
 * [FAQ](https://notes.ethereum.org/Wjr1SnW-QaST7phX9C5wkg?both)
 * [Reddit](https://www.reddit.com/r/ethereum/comments/fhkca3/eip_1559_when/)
-
 #### Video
-* [Tim Roughgarden: An Economic Analysis of EIP-1559; Q&A with Vitalik Buterin](https://www.youtube.com/watch?v=ndNyx-Oj9Wk&feature=youtu.be)
 * [EIP-1559: Fee market change for Ethereum 1.0 chain](https://youtu.be/ZbSKo_x9RvU)
+* [Tim Roughgarden: An Economic Analysis of EIP-1559; Q&A with Vitalik Buterin](https://www.youtube.com/watch?v=ndNyx-Oj9Wk)
 * [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
-
 * **Escalator Fees**
     * [Analysis of EIP-2593 (Escalator)](https://insights.deribit.com/market-research/analysis-of-eip-2593-escalator/)
     * [GitHub](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)
-    * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/71) 
     * [Another simple Gas fee model: The “Escalator Algorithm” from the Agoric Papers](https://ethresear.ch/t/another-simple-gas-fee-model-the-escalator-algorithm-from-the-agoric-papers/6399) by Dan Finlay at Eth Research   
 * **[Typed Transaction Envelope](https://eips.ethereum.org/EIPS/eip-2718)**
 * **[Combination EIP1559 / escalator](https://github.com/ethereum/rig/blob/master/eip1559/combination.md#floating-escalator-started-on-basefee)**
 #### Fee Market Changes meeting notes are available [here](https://github.com/ethereum/pm/tree/master/Fee%20Market%20Meetings).
+
 ## [EIP-2938: Account Abstraction](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2938.md)
 * [Account Abstraction Community Call](https://www.youtube.com/watch?v=0hAIjLFe38Y&list=PL4cwHXAawZxr020waJCI0dZAfPAW2naK1&index=1)
 * EIP-2938: Account Abstraction with Sam Wilson & Ansgar Dietrichs ([Pt. 1](https://youtu.be/HvZd6z2YdZs)) & ([Pt. 2](https://youtu.be/Xoc4q1nJzsU))

@@ -114,6 +114,8 @@ Other links:
 ### Discussion
 * [Fellowship of Ethereum Magician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/71) 
 ### Resources: 
+* [Block size spikes concerns by Vitalik Buterin](https://notes.ethereum.org/@vbuterin/eip_1559_spikes)
+* [EIP-1559 Transaction Sorting: Overview by Ansgar Deitrichs](https://hackmd.io/@adietrichs/1559-transaction-sorting)
 * [EIP-1559 Mainnet Readiness Checklist](https://github.com/ethereum/pm/blob/master/Fee%20Market%20Meetings/mainnet-readiness.md)
 * [EIP-1559 Toolbox](http://eip1559-tx.ops.pegasys.tech/)
 * [EIP-1559 Rhodes testnet](https://github.com/ConsenSys/eip1559-rhodes)

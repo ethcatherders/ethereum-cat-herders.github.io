@@ -126,8 +126,8 @@ Other links:
 * [The State of 1559 - Update 002](https://hackmd.io/@timbeiko/1559-update-002)
 * [The State of 1559 - Update 001 🔥](https://hackmd.io/@timbeiko/1559-update-001)
 
-**Barnabe's Notebook**
-* [The stable road to EIP 1559: Transitioning out of first-price auctions](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/Transition.ipynb)
+**[Barnabe's Notebook](https://github.com/barnabemonnot/abm1559/tree/master/notebooks)**
+* [The stable road to EIP 1559: Transitioning out of first-price auctions](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/Transition.ipynb) or on [GitHub](https://github.com/barnabemonnot/abm1559/blob/master/notebooks/transition1559.ipynb)
 * [Eviction policy](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/eviction.ipynb)
 * [The floating escalator: Combining 1559 and the escalator](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/floatingEscalator.ipynb)
 * [Strategic users in EIP 1559](https://nbviewer.jupyter.org/github/barnabemonnot/abm1559/blob/master/notebooks/strategicUser.ipynb)

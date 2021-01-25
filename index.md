@@ -80,13 +80,14 @@ A video series focused on the Ethereum Improvement Proposal
 ### Discussion
 * [Fellowship of Ethereum Magician](https://ethereum-magicians.org/t/evm384-feedback-and-discussion/4533)
 ### Resources
-* [Current performance of EIP-2537 and EVM384 by Alex Vlasov](https://hackmd.io/@HQ919cEzRLak4f8-8fPbZA/HJ4u8q3uD)
-* [EVM384 for Geth](https://gist.github.com/jwasinger/41b890bc5a01b7abd4f75ae70f0641f1#file-instructions-md)
+* [Update 5: First Gas Cost Estimates](https://notes.ethereum.org/@poemm/evm384-update5)
 * [Update 4: The Final Exponentiation and the Pairing](https://notes.ethereum.org/@poemm/evm384-update4)
 * [Update 3: The Miller loop](https://notes.ethereum.org/@poemm/evm384-update3)
 * [Update 2: The Interfaces](https://notes.ethereum.org/@poemm/evm384-interface-update)
 * [Update 1: Can we do fast crypto in EVM?](https://notes.ethereum.org/@axic/evm384)
 * [Preview of EVM384](https://notes.ethereum.org/@axic/evm384-preview)
+* [Current performance of EIP-2537 and EVM384 by Alex Vlasov](https://hackmd.io/@HQ919cEzRLak4f8-8fPbZA/HJ4u8q3uD)
+* [EVM384 for Geth](https://gist.github.com/jwasinger/41b890bc5a01b7abd4f75ae70f0641f1#file-instructions-md)
 #### Video
 * [EVM384 - Doing Fast Crypto in EVM' - Paul Dworzanski](https://www.youtube.com/watch?v=vlrLl1r66GU)
 

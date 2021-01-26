@@ -115,13 +115,19 @@ Other links:
 ### Discussion
 * [Fellowship of Ethereum Magician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/71) 
 ### Resources: 
+* [EIP 1559 and Fee Structure](https://vitalik.ca/files/misc_files/EIP_1559_Fee_Structure.pdf) by Vitalik Buterin
+* [Why 1559?](https://www.youtube.com/watch?v=IEQPSJbZsq0&list=PLXzKMXK2aHh4wSCFiW2naDgq3tK-WjSR0&index=6) by Tim Beiko
+* [Creating a Symbiotic Relationship - The Daily Gwei #17](https://thedailygwei.substack.com/p/creating-a-symbiotic-relationship) by Anthony Sassano
 * [Block size spikes concerns by Vitalik Buterin](https://notes.ethereum.org/@vbuterin/eip_1559_spikes)
 * [EIP-1559 Transaction Sorting: Overview by Ansgar Deitrichs](https://hackmd.io/@adietrichs/1559-transaction-sorting)
 * [EIP-1559 Mainnet Readiness Checklist](https://github.com/ethereum/pm/blob/master/Fee%20Market%20Meetings/mainnet-readiness.md)
 * [EIP-1559 Toolbox](http://eip1559-tx.ops.pegasys.tech/)
 * [EIP-1559 Rhodes testnet](https://github.com/ConsenSys/eip1559-rhodes)
+* [Analysis of EIP-1559 by Hasu & Georgios Konstantopoulos](https://insights.deribit.com/market-research/analysis-of-eip-1559/)
 
 **Tim's Updates**
+* [The State of 1559 - Update 006](https://hackmd.io/@timbeiko/1559-updates/https%3A%2F%2Fhackmd.io%2F%40timbeiko%2F1559-update-006)
+* [The State of 1559 - Update 005](https://hackmd.io/@timbeiko/1559-updates/https%3A%2F%2Fhackmd.io%2F%40timbeiko%2F1559-update-005)
 * [The State of 1559 - Update 004](https://hackmd.io/@timbeiko/1559-update-004)
 * [The State of 1559 - Update 003](https://hackmd.io/@timbeiko/1559-update-003)
 * [The State of 1559 - Update 002](https://hackmd.io/@timbeiko/1559-update-002)
@@ -145,9 +151,11 @@ Other links:
 * [FAQ](https://notes.ethereum.org/Wjr1SnW-QaST7phX9C5wkg?both)
 * [Reddit](https://www.reddit.com/r/ethereum/comments/fhkca3/eip_1559_when/)
 #### Video
-* [EIP-1559: Fee market change for Ethereum 1.0 chain](https://youtu.be/ZbSKo_x9RvU)
+* [EIP-1559: Fee market change for Ethereum 1.0 chain](https://youtu.be/ZbSKo_x9RvU) on Peep an EIP with Ethereum Cat Herders
 * [Tim Roughgarden: An Economic Analysis of EIP-1559; Q&A with Vitalik Buterin](https://www.youtube.com/watch?v=ndNyx-Oj9Wk)
+* [Can ETH Become DEFLATIONARY? EIP 1559 Explained](https://www.youtube.com/watch?v=MGemhK9t44Q&feature=youtu.be) by Finematics
 * [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
+* [EIP 1559 Overview - Tim Beiko](https://www.youtube.com/watch?v=IEQPSJbZsq0&list=PLXzKMXK2aHh4wSCFiW2naDgq3tK-WjSR0&index=6) by ETHGlobal
 * **Escalator Fees**
     * [Analysis of EIP-2593 (Escalator)](https://insights.deribit.com/market-research/analysis-of-eip-2593-escalator/)
     * [GitHub](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)

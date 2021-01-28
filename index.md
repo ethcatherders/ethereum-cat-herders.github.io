@@ -113,17 +113,30 @@ Other links:
 
 ## [1559 Fee market change](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md)
 ### Discussion
-* [Fellowship of Ethereum Magician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/71) 
+Fellowship of Ethereum Magician 
+* [EIP-1559: Fee market change for ETH 1.0 chain](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783/71)
+* [Five arguments against fee burning in EIP-1559](https://ethereum-magicians.org/t/five-arguments-against-fee-burning-in-eip-1559/5184)
+### Video explainer
+* [EIP-1559: Fee market change for Ethereum 1.0 chain](https://youtu.be/ZbSKo_x9RvU) on Peep an EIP with Ethereum Cat Herders
+* [Tim Roughgarden: An Economic Analysis of EIP-1559; Q&A with Vitalik Buterin](https://www.youtube.com/watch?v=ndNyx-Oj9Wk)
+* [Can ETH Become DEFLATIONARY? EIP 1559 Explained](https://www.youtube.com/watch?v=MGemhK9t44Q&feature=youtu.be) by Finematics
+* [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
+* [EIP 1559 Overview - Tim Beiko](https://www.youtube.com/watch?v=IEQPSJbZsq0&list=PLXzKMXK2aHh4wSCFiW2naDgq3tK-WjSR0&index=6) by ETHGlobal
 ### Resources: 
-* [EIP 1559 and Fee Structure](https://vitalik.ca/files/misc_files/EIP_1559_Fee_Structure.pdf) by Vitalik Buterin
-* [Why 1559?](https://www.youtube.com/watch?v=IEQPSJbZsq0&list=PLXzKMXK2aHh4wSCFiW2naDgq3tK-WjSR0&index=6) by Tim Beiko
-* [Creating a Symbiotic Relationship - The Daily Gwei #17](https://thedailygwei.substack.com/p/creating-a-symbiotic-relationship) by Anthony Sassano
-* [Block size spikes concerns by Vitalik Buterin](https://notes.ethereum.org/@vbuterin/eip_1559_spikes)
-* [EIP-1559 Transaction Sorting: Overview by Ansgar Deitrichs](https://hackmd.io/@adietrichs/1559-transaction-sorting)
 * [EIP-1559 Mainnet Readiness Checklist](https://github.com/ethereum/pm/blob/master/Fee%20Market%20Meetings/mainnet-readiness.md)
 * [EIP-1559 Toolbox](http://eip1559-tx.ops.pegasys.tech/)
+* [EIP 1559 and Fee Structure](https://vitalik.ca/files/misc_files/EIP_1559_Fee_Structure.pdf) by Vitalik Buterin
+* [Block size spikes concerns](https://notes.ethereum.org/@vbuterin/eip_1559_spikes) by Vitalik Buterin
+* [A Tale of Two Pricing Schemes](https://medium.com/@MicahZoltu/a-tale-of-two-pricing-schemes-dc9c8717906) by Micah Zoltu
+* [A World Without (block) Limits!](https://medium.com/coinmonks/a-world-without-block-limits-f3ecc926cd68) by Micah Zoltu
+* [EIP-1559 51% Attacks: Should you live in fear?](https://medium.com/@MicahZoltu/eip-1559-51-attacks-should-you-live-in-fear-d817be3759dc) by Micah Zoltu
+* [Why 1559?](https://www.youtube.com/watch?v=IEQPSJbZsq0&list=PLXzKMXK2aHh4wSCFiW2naDgq3tK-WjSR0&index=6) by Tim Beiko
+* [Creating a Symbiotic Relationship - The Daily Gwei #17](https://thedailygwei.substack.com/p/creating-a-symbiotic-relationship) by Anthony Sassano
+* [EIP-1559 Transaction Sorting: Overview by Ansgar Deitrichs](https://hackmd.io/@adietrichs/1559-transaction-sorting)
 * [EIP-1559 Rhodes testnet](https://github.com/ConsenSys/eip1559-rhodes)
 * [Analysis of EIP-1559 by Hasu & Georgios Konstantopoulos](https://insights.deribit.com/market-research/analysis-of-eip-1559/)
+
+#### 1559 Implementers' meeting notes are available [here](https://github.com/ethereum/pm/tree/master/Fee%20Market%20Meetings).
 
 **Tim's Updates**
 * [The State of 1559 - Update 006](https://hackmd.io/@timbeiko/1559-updates/https%3A%2F%2Fhackmd.io%2F%40timbeiko%2F1559-update-006)
@@ -150,19 +163,12 @@ Other links:
 * [EthMagician](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783) 
 * [FAQ](https://notes.ethereum.org/Wjr1SnW-QaST7phX9C5wkg?both)
 * [Reddit](https://www.reddit.com/r/ethereum/comments/fhkca3/eip_1559_when/)
-#### Video
-* [EIP-1559: Fee market change for Ethereum 1.0 chain](https://youtu.be/ZbSKo_x9RvU) on Peep an EIP with Ethereum Cat Herders
-* [Tim Roughgarden: An Economic Analysis of EIP-1559; Q&A with Vitalik Buterin](https://www.youtube.com/watch?v=ndNyx-Oj9Wk)
-* [Can ETH Become DEFLATIONARY? EIP 1559 Explained](https://www.youtube.com/watch?v=MGemhK9t44Q&feature=youtu.be) by Finematics
-* [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
-* [EIP 1559 Overview - Tim Beiko](https://www.youtube.com/watch?v=IEQPSJbZsq0&list=PLXzKMXK2aHh4wSCFiW2naDgq3tK-WjSR0&index=6) by ETHGlobal
 * **Escalator Fees**
     * [Analysis of EIP-2593 (Escalator)](https://insights.deribit.com/market-research/analysis-of-eip-2593-escalator/)
     * [GitHub](https://github.com/danfinlay/EIPs/blob/Escalator/EIPS/eip-x.md)
     * [Another simple Gas fee model: The “Escalator Algorithm” from the Agoric Papers](https://ethresear.ch/t/another-simple-gas-fee-model-the-escalator-algorithm-from-the-agoric-papers/6399) by Dan Finlay at Eth Research   
 * **[Typed Transaction Envelope](https://eips.ethereum.org/EIPS/eip-2718)**
 * **[Combination EIP1559 / escalator](https://github.com/ethereum/rig/blob/master/eip1559/combination.md#floating-escalator-started-on-basefee)**
-#### Fee Market Changes meeting notes are available [here](https://github.com/ethereum/pm/tree/master/Fee%20Market%20Meetings).
 
 ## [EIP-2938: Account Abstraction](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2938.md)
 * [Account Abstraction Community Call](https://www.youtube.com/watch?v=0hAIjLFe38Y&list=PL4cwHXAawZxr020waJCI0dZAfPAW2naK1&index=1)

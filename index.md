@@ -125,6 +125,7 @@ Fellowship of Ethereum Magician
 ### Resources: 
 * [EIP-1559 Mainnet Readiness Checklist](https://github.com/ethereum/pm/blob/master/Fee%20Market%20Meetings/mainnet-readiness.md)
 * [EIP-1559 Toolbox](http://eip1559-tx.ops.pegasys.tech/)
+* [What Does a Miner Revolt Look Like?](https://micah-zoltu.medium.com/what-does-a-miner-revolt-look-like-a99216fe270e)
 * [EIP 1559 and Fee Structure](https://vitalik.ca/files/misc_files/EIP_1559_Fee_Structure.pdf) by Vitalik Buterin
 * [Block size spikes concerns](https://notes.ethereum.org/@vbuterin/eip_1559_spikes) by Vitalik Buterin
 * [A Tale of Two Pricing Schemes](https://medium.com/@MicahZoltu/a-tale-of-two-pricing-schemes-dc9c8717906) by Micah Zoltu

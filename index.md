@@ -123,8 +123,7 @@ Fellowship of Ethereum Magician
 * [EIP1559 - Ethereum Magicians Summer Sessions](https://www.youtube.com/watch?v=kNSpugOwQ1o)
 * [EIP 1559 Overview - Tim Beiko](https://www.youtube.com/watch?v=IEQPSJbZsq0&list=PLXzKMXK2aHh4wSCFiW2naDgq3tK-WjSR0&index=6) by ETHGlobal
 ### Resources: 
-* [EIP-1559 Mainnet Readiness Checklist](https://github.com/ethereum/pm/blob/master/Fee%20Market%20Meetings/mainnet-readiness.md)
-* [EIP-1559 Toolbox](http://eip1559-tx.ops.pegasys.tech/)
+* [Congestion control and eip1559](https://barnabe.substack.com/p/congestion-control-and-eip1559?r=n7h0&utm_campaign=post&utm_medium=web&utm_source=twitter)
 * [What Does a Miner Revolt Look Like?](https://micah-zoltu.medium.com/what-does-a-miner-revolt-look-like-a99216fe270e)
 * [EIP 1559 and Fee Structure](https://vitalik.ca/files/misc_files/EIP_1559_Fee_Structure.pdf) by Vitalik Buterin
 * [Block size spikes concerns](https://notes.ethereum.org/@vbuterin/eip_1559_spikes) by Vitalik Buterin
@@ -136,6 +135,9 @@ Fellowship of Ethereum Magician
 * [EIP-1559 Transaction Sorting: Overview by Ansgar Deitrichs](https://hackmd.io/@adietrichs/1559-transaction-sorting)
 * [EIP-1559 Rhodes testnet](https://github.com/ConsenSys/eip1559-rhodes)
 * [Analysis of EIP-1559 by Hasu & Georgios Konstantopoulos](https://insights.deribit.com/market-research/analysis-of-eip-1559/)
+
+* [EIP-1559 Mainnet Readiness Checklist](https://github.com/ethereum/pm/blob/master/Fee%20Market%20Meetings/mainnet-readiness.md)
+* [EIP-1559 Toolbox](http://eip1559-tx.ops.pegasys.tech/)
 
 #### 1559 Implementers' meeting notes are available [here](https://github.com/ethereum/pm/tree/master/Fee%20Market%20Meetings).
 
